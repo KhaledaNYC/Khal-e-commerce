@@ -1,0 +1,96 @@
+- bn.js@4.11.6 node_modules/bn.js
+- brorand@1.0.6 node_modules/brorand
+- buffer-xor@1.0.3 node_modules/buffer-xor
+- builtin-modules@1.1.1 node_modules/builtin-modules
+- cipher-base@1.0.3 node_modules/cipher-base
+- co@4.6.0 node_modules/co
+- code-point-at@1.0.1 node_modules/code-point-at
+- create-hash@1.1.2 node_modules/create-hash
+- create-hmac@1.1.4 node_modules/create-hmac
+- evp_bytestokey@1.0.0 node_modules/evp_bytestokey
+- browserify-aes@1.0.6 node_modules/browserify-aes
+- get-caller-file@1.0.2 node_modules/get-caller-file
+- hash.js@1.0.3 node_modules/hash.js
+- elliptic@6.3.2 node_modules/elliptic
+- create-ecdh@4.0.0 node_modules/create-ecdh
+- hosted-git-info@2.1.5 node_modules/hosted-git-info
+- invert-kv@1.0.0 node_modules/invert-kv
+- is-arrayish@0.2.1 node_modules/is-arrayish
+- error-ex@1.3.0 node_modules/error-ex
+- is-builtin-module@1.0.0 node_modules/is-builtin-module
+- is-fullwidth-code-point@1.0.0 node_modules/is-fullwidth-code-point
+- is-utf8@0.2.1 node_modules/is-utf8
+- jsonify@0.0.0 node_modules/jsonify
+- json-stable-stringify@1.0.1 node_modules/json-stable-stringify
+- ajv@4.8.2 node_modules/ajv
+- lcid@1.0.0 node_modules/lcid
+- loader-runner@2.2.0 node_modules/loader-runner
+- lodash.assign@4.2.0 node_modules/lodash.assign
+- miller-rabin@4.0.0 node_modules/miller-rabin
+- minimalistic-assert@1.0.0 node_modules/minimalistic-assert
+- asn1.js@4.8.1 node_modules/asn1.js
+- des.js@1.0.0 node_modules/des.js
+- browserify-des@1.0.0 node_modules/browserify-des
+- browserify-cipher@1.0.0 node_modules/browserify-cipher
+- os-locale@1.4.0 node_modules/os-locale
+- parse-json@2.2.0 node_modules/parse-json
+- pbkdf2@3.0.9 node_modules/pbkdf2
+- parse-asn1@5.0.0 node_modules/parse-asn1
+- pify@2.3.0 node_modules/pify
+- path-type@1.1.0 node_modules/path-type
+- randombytes@2.0.3 node_modules/randombytes
+- browserify-rsa@4.0.1 node_modules/browserify-rsa
+- browserify-sign@4.0.0 node_modules/browserify-sign
+- diffie-hellman@5.0.2 node_modules/diffie-hellman
+- public-encrypt@4.0.0 node_modules/public-encrypt
+- require-directory@2.1.1 node_modules/require-directory
+- require-main-filename@1.0.1 node_modules/require-main-filename
+- semver@5.3.0 node_modules/semver
+- set-blocking@2.0.0 node_modules/set-blocking
+- spdx-expression-parse@1.0.4 node_modules/spdx-expression-parse
+- spdx-license-ids@1.2.2 node_modules/spdx-license-ids
+- spdx-correct@1.0.2 node_modules/spdx-correct
+- string-width@1.0.2 node_modules/string-width
+- strip-bom@2.0.0 node_modules/strip-bom
+- load-json-file@1.1.0 node_modules/load-json-file
+- yargs@3.10.0 node_modules/uglify-js/node_modules/yargs
+- validate-npm-package-license@3.0.1 node_modules/validate-npm-package-license
+- normalize-package-data@2.3.5 node_modules/normalize-package-data
+- read-pkg@1.1.0 node_modules/read-pkg
+- read-pkg-up@1.0.1 node_modules/read-pkg-up
+- webpack-sources@0.1.2 node_modules/webpack-sources
+- which-module@1.0.0 node_modules/which-module
+- wrap-ansi@2.0.0 node_modules/wrap-ansi
+- y18n@3.2.1 node_modules/y18n
+- camelcase@3.0.0 node_modules/yargs-parser/node_modules/camelcase
+- yargs-parser@2.4.1 node_modules/yargs-parser
+- cliui@3.2.0 node_modules/yargs/node_modules/cliui
+- window-size@0.2.0 node_modules/yargs/node_modules/window-size
+Khal-e-commerce@0.1.0 /Users/davidlahti/Desktop/GroupProjects/Khal-e-commerce/Khal-e-commerce
+└─┬ webpack@1.13.3  invalid
+  ├─┬ enhanced-resolve@0.9.1 
+  │ └── memory-fs@0.2.0 
+  ├── interpret@0.6.6 
+  ├─┬ node-libs-browser@0.6.0 
+  │ ├── constants-browserify@0.0.1 
+  │ ├─┬ crypto-browserify@3.2.8 
+  │ │ ├── pbkdf2-compat@2.0.1 
+  │ │ ├── ripemd160@0.2.0 
+  │ │ └── sha.js@2.2.6 
+  │ ├── https-browserify@0.0.0 
+  │ ├── os-browserify@0.1.2 
+  │ ├─┬ readable-stream@1.1.14 
+  │ │ └── isarray@0.0.1 
+  │ ├─┬ stream-browserify@1.0.0 
+  │ │ └─┬ readable-stream@1.1.14 
+  │ │   └── isarray@0.0.1 
+  │ └── url@0.10.3 
+  ├── tapable@0.1.10 
+  ├─┬ uglify-js@2.7.4
+  │ └── yargs@3.10.0 
+  ├─┬ watchpack@0.2.9 
+  │ └── async@0.9.2 
+  └─┬ webpack-core@0.6.8 
+    └─┬ source-map@0.4.4 
+      └── amdefine@1.0.0 
+
